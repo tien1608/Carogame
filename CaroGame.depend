@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1735029995 source:c:\users\tienn\documents\carogame\carogame\main.cpp
+	<iostream>
+	"menu.h"
+
+1735034463 c:\users\tienn\documents\carogame\carogame\menu.h
+
+1734986850 source:c:\users\tienn\documents\carogame\carogame\player.cpp
+	"player.h"
+
+1734986850 c:\users\tienn\documents\carogame\carogame\player.h
+	<string>
+	<vector>
+
+1735034669 source:c:\users\tienn\documents\carogame\carogame\board.cpp
+	"board.h"
+
+1735034580 c:\users\tienn\documents\carogame\carogame\board.h
+	<iostream>
+
+1735108024 source:c:\users\tienn\documents\carogame\carogame\menu.cpp
+	"menu.h"
+	"board.h"
+	"player.h"
+	"bot.h"
+	"history.h"
+	<iostream>
+	<limits>
+
+1735108704 source:c:\users\tienn\documents\carogame\carogame\bot.cpp
+	"bot.h"
+
+1735108807 c:\users\tienn\documents\carogame\carogame\bot.h
+	<utility>
+	"board.h"
+
+1735025008 c:\users\tienn\documents\carogame\carogame\history.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<iomanip>
+	<vector>
+	<utility>
+	"player.h"
+	"board.h"
+
+1735028821 source:c:\users\tienn\documents\carogame\carogame\history.cpp
+	"history.h"
+	<algorithm>
+
+1735063152 source:c:\users\tienn\documents\carogame\carogame\easybot.cpp
+	"easyBot.h"
+
+1735063548 c:\users\tienn\documents\carogame\carogame\easybot.h
+	"bot.h"
+
